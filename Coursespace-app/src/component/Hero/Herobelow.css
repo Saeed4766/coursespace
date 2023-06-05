@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* gap: 2rem; */
+    padding: 0 .5rem;
+}
+.features{
+    margin-bottom: .6rem;
+    font-size: 2.5rem;
+    color:'#ffaf35'
+}
+.children{
+    text-align: center;
+    
+}
+
+

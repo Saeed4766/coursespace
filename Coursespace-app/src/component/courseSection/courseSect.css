@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+
+}
+.cardWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:3rem;
+    background-color: white;
+}
+h2{
+    font-size: 3rem;
+    box-sizing: inherit;
+    line-height: 1.4;
+    font-weight: 700;
+    
+}
