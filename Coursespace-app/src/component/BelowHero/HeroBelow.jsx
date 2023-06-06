@@ -1,5 +1,5 @@
 import React from 'react'
-import './Herobelow.css'
+import './HeroBelow.css'
 
 const Herobelow = () => {
   return (

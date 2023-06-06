@@ -9,7 +9,7 @@ import Strollbtn from './Strollbtn'
 
 const CourseSect = () => {
   return (
-    <div className='parent'  style={{backgroundColor:'#f2f5f5'}}>
+    <div className='parent'  style={{backgroundColor:'#f2f5f5', marginBottom:'3rem'}}>
       
         <div className="wrapper">
             

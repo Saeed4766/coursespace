@@ -6,11 +6,4 @@
 body{
     margin: 0 4rem;
 }
-.hero{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
-    padding: 3rem 5rem;
-    position: relative;
-}
+

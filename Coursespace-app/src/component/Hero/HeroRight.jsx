@@ -7,7 +7,7 @@ const HeroRight = () => {
     <div>
         <img src={homehero} alt="" style={{width:'30rem', height:'32rem'}}/>
         
-        <div style={{display:'flex', gap:'1rem',position:'absolute', left:'580px', bottom:'150px'}}>
+        <div style={{display:'flex', gap:'1rem',position:'absolute', right:'33rem', top:'31rem'}}>
             <img src={certificate} alt=""  style={{width:'2rem', height:'2rem'}}/>
             <div style={{display:'flex', flexDirection:'column'}}>
               <h3 style={{color:'#ffaf35'}}>Certificate</h3> 

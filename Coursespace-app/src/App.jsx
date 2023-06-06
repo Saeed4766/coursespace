@@ -4,6 +4,7 @@ import { useState } from 'react'
 import Navbar from './component/Navbar/Navbar'
 // import Card from './component/MentorsSection/Card'
 import Hero from './component/Hero/Hero'
+import Below from './component/BelowHero/Below'
 import CourseSect from './component/courseSection/CourseSect'
 import Learning from './component/sectionthree/Learning'
 import Testimonial from './component/TestimonialSection/Testimonial'
@@ -30,6 +31,7 @@ function App() {
     
       <Navbar/>
       <Hero/>
+      <Below/>
       <CourseSect/>
       <Learning />
       <Testimonial/>
